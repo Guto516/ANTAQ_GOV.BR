@@ -7,3 +7,11 @@ Na página a ser implementada, foi orientado que o título seja "Carta de Servi�
 <img width="965" height="799" alt="image" src="https://github.com/user-attachments/assets/d34def98-0d19-4a33-9260-be3857556f39" />
 <img width="1212" height="574" alt="image" src="https://github.com/user-attachments/assets/15214c70-ee47-481f-816f-371b07c909dc" />
 
+Código está na "Arvore_de_Servicos"
+
+Também foi solicitado que sejam adicionados os logos de cada sistema como links diretos. O objetivo é que usuários familiarizados possam acessar o sistema desejado rapidamente.
+
+![Uploading image.png…]()
+![Uploading image.png…]()
+
+Código está na "Logos_Servicos"
